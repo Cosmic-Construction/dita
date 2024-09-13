@@ -12,6 +12,7 @@
     <mapref href="langRef/key-definitions-base-elements.ditamap"/>
     <mapref
       href="langRef/attributes/key-definitions-ditaref-attributes.ditamap"/>
+    <mapref href="common/key-definitions-complex-attributes.ditamap"/>
     <keydef keys="attributes-href"
       href="archSpec/base/thehrefattribute.dita"/>
     <mapref href="base-relationship-tables.ditamap"/>
@@ -21,8 +22,7 @@
       <toc/>
     </booklists>
   </frontmatter>
-  <chapter href="archSpec/base/conref.ditamap"
-    format="ditamap"/>
+  <chapter href="archSpec/base/conref.ditamap" format="ditamap"/>
   <appendix href="non-normative/aggregated-RFC-2119-statements.dita"/>
   <backmatter>
     <booklists>
